@@ -190,6 +190,6 @@ A4: The frequency of retraining depends on your industry and the rate of change 
 
 ## Author Bio
 
-[Your Name] is a [Your Title/Occupation] at !(scaleoutsystmes.com)[https://www.scaleoutsystems.com/] with a background in systems and perfection and experience in AI and machine learning. Passionate about leveraging technology to drive business success, [Your Name] is focusing on developing !(FEDn)[https://www.scaleoutsystems.com/framework], an open federated learning framework that helps companies seamlessly integrate edge AI into their operations. With a deep understanding of LLMs and their applications, [Your Name] offers expert insights into transforming workflows through AI.
+[Your Name] is a [Your Title/Occupation] at ![scaleoutsystmes.com](https://www.scaleoutsystems.com/) with a background in systems and perfection and experience in AI and machine learning. Passionate about leveraging technology to drive business success, [Your Name] is focusing on developing ![FEDn](https://www.scaleoutsystems.com/framework), an open federated learning framework that helps companies seamlessly integrate edge AI into their operations. With a deep understanding of LLMs and their applications, [Your Name] offers expert insights into transforming workflows through AI.
 
 *Have questions about LLMs?* Reach out at [Contact Information] for expert advice on integrating LLMs into your production workflow.
