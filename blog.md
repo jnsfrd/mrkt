@@ -10,7 +10,7 @@ destination: "https://www.scaleoutsystems.com/blog"
 
 # Integrating LLMs into Your Production Workflow: A Complete Guide
 
-![LLMs in Production](https://placehold.co/980x400/dodgerblue/white?text=LLMs+in+Production+Workflow)
+![LLMs in Production](https://placehold.co/980x400/pigeonblue/white?text=LLMs+in+Production+Workflow)
 *Figure 1: Illustration of integrating Large Language Models (LLMs) into a production workflow.*
 
 ## Table of Contents
