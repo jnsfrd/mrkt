@@ -138,7 +138,7 @@ openai.api_key = 'YOUR_OPENAI_API_KEY'
 def generate_text(prompt):
     try:
         response = openai.Completion.create(
-            engine="text-davinci-003", # Use appropriate engine like "text-davinci-003"
+            engine="text-davinci-003", 
             prompt=prompt,
             max_tokens=150
         )
