@@ -1,9 +1,9 @@
 ---
-title: "Integrating LLMs into Your Production Workflow: A Complete Guide"
-description: "Discover how to effectively integrate Large Language Models (LLMs) into your production workflow to enhance efficiency, scalability, and performance."
+title: "Integrating FEDn into Your Production Workflow: A Complete Guide"
+description: "Discover how to effectively integrate federated learning with FEDn into your production workflow to enhance efficiency, scalability, and performance."
 date: 2024-09-15
 author: "Your Name"
-tags: [LLMs, Production Workflow, AI, Machine Learning]
+tags: [FEDn, Federated Learning, AI, Machine Learning]
 draft: true
 destination: "https://www.scaleoutsystems.com/blog"
 ---
@@ -189,7 +189,6 @@ A4: The frequency of retraining depends on your industry and the rate of change 
 - **[Understanding the Ethics of AI in Business](#)**
 
 ## Author Bio
+[Your Name] is a [Your Title/Occupation] at [scaleoutsystmes.com](https://www.scaleoutsystems.com/) with a background in engineering and computer vision. Passionate about leveraging leading technology to enable machine learning solutions without compromising on data ownership and privacy. [Your Name] is focused on developing FEDn, an open federated learning framework designed to help companies seamlessly integrate edge AI into their operations. With a deep understanding of federated learning and their applications, [Your Name] offers expert insights into machine learning at the edge.
 
-[Your Name] is a [Your Title/Occupation] at [scaleoutsystmes.com](https://www.scaleoutsystems.com/) with a background in systems and perfection and experience in AI and machine learning. Passionate about leveraging technology to drive business success, [Your Name] is focusing on developing [FEDn](https://www.scaleoutsystems.com/framework), an open federated learning framework that helps companies seamlessly integrate edge AI into their operations. With a deep understanding of LLMs and their applications, [Your Name] offers expert insights into transforming workflows through AI.
-
-*Have questions about LLMs?* Reach out at [Contact Information] for expert advice on integrating LLMs into your production workflow.
+*Have questions about federated learning?* Reach out at [Contact Information] for expert advice on integrating federated learning into your production workflow.
